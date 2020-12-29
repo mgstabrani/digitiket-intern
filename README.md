@@ -3,14 +3,14 @@
 ## Requirements
 - PHP versi 7 ke atas. 
 - Software XAMPP.
-- Web Browser
+- Web Browser.
 
 ## Cara menjalankan
-- Clone project ini ke dalam folder htdocs di XAMPP
+- Clone project ini ke dalam folder htdocs di XAMPP.
 ```
 cd C:/xampp/htdocs/
 ```
-- Buka web browser, dan jalankan url berikut 
+- Buka web browser, dan jalankan url berikut .
 ```
 http://localhost/digitiket-intern/public/
 ```
